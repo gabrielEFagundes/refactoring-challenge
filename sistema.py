@@ -128,3 +128,4 @@ if __name__ == "__main__":
     main()"# pequenos ajustes de ambiente" 
 "# mexi na funcao f1" 
 "# arrumando o loop infinito do main" 
+"# voltando o codigo antigo" 
