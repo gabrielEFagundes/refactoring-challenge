@@ -125,4 +125,4 @@ def main():
             print("Sabe ler nao?")
 
 if __name__ == "__main__":
-    main()
+    main()"# pequenos ajustes de ambiente" 
