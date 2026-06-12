@@ -130,3 +130,4 @@ if __name__ == "__main__":
 "# arrumando o loop infinito do main" 
 "# voltando o codigo antigo" 
 "# cansei" 
+"# removido prints desnecessarios" 
